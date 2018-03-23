@@ -62,7 +62,7 @@ Y = data after current push
 
 **Change the following block only**
 ```
-Number of easy questions solved: 0 7
+Number of easy questions solved: 0 8
 Number of medium questions solved: 0 1
 Number of hard questions solved: 0 0
 Number of total questions solved: 0 8
@@ -118,7 +118,7 @@ To mark the checkbox, change [ ] to [x].
 28. [ ] [https://goo.gl/PzwksW](https://goo.gl/PzwksW)
 29. [ ] [http://www.spoj.com/problems/BLHETA/](http://www.spoj.com/problems/BLHETA/)
 30. [ ] [https://goo.gl/TGfXMv](https://goo.gl/TGfXMv)
-31. [ ] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
+31. [x] [https://www.hackerrank.com/challenges/angry-children/problem](https://www.hackerrank.com/challenges/angry-children/problem)
 32. [ ] [https://www.codechef.com/problems/PANSTACK](https://www.codechef.com/problems/PANSTACK)
 33. [ ] [https://goo.gl/1A7rHf](https://goo.gl/1A7rHf)
 34. [x] [https://www.hackerrank.com/challenges/flipping-bits/problem](https://www.hackerrank.com/challenges/flipping-bits/problem)
